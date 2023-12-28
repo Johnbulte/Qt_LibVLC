@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/audio.png</file>
+        <file>rec/folder.png</file>
+        <file>rec/pause.png</file>
+        <file>rec/play.png</file>
+    </qresource>
+</RCC>
